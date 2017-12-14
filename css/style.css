@@ -1198,7 +1198,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__logo-img-default {
-  opacity: 1;
+  opacity: none;
 }
 
 .s-header__logo-img-shrink {
