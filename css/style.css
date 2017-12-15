@@ -1141,6 +1141,7 @@ fieldset[disabled] .s-btn {
   height: auto;
   display: table;
   padding: .75rem 1.875rem;
+  color: #444;
 }
 
 .s-header__container:before, .s-header__container:after {
@@ -1177,7 +1178,7 @@ fieldset[disabled] .s-btn {
   position: relative;
   z-index: 9999;
   width: 100%;
-  height: auto;
+  height: 50%;
   float: left;
 }
 
